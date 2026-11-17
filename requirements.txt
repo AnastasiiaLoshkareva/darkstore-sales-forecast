@@ -1,0 +1,10 @@
+# Зависимости для ноутбука model_training.ipynb (Python 3.12)
+numpy
+pandas
+matplotlib==3.10.0
+seaborn
+scikit-learn
+catboost==1.2.10
+psycopg2-binary
+python-dotenv==1.0.1
+boto3==1.34.131
